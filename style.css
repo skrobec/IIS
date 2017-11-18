@@ -1,0 +1,39 @@
+#menu {
+	margin-top: -30px;
+
+}
+#bg{
+	background-image: url("nurse2.png");
+}
+#bg h1{
+	margin-left: 100px;
+	
+
+}
+#bg p{
+	margin-left:100px;
+
+
+
+}
+.col{
+	 background:rgba(0,0,0,0.6);
+}
+
+
+.col-sm-4 {
+    background-color: #e3e3e3;
+    border-radius: 15px 15px 15px 15px;
+     text-align: center;
+    padding-top: 0px;
+}
+
+.col-md-6 {
+    background-color: #f5f3f3;
+}
+
+
+
+.col-md-2 {
+    border-radius: 0 15px 15px 0;
+}
